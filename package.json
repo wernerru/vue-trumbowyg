@@ -1,6 +1,6 @@
 {
   "name": "vue-trumbowyg",
-  "version": "3.6.3",
+  "version": "3.6.4",
   "description": "Vue.js component for trumbowyg WYSIWYG editor",
   "main": "dist/vue-trumbowyg.js",
   "browser": "dist/vue-trumbowyg.min.js",
@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "jquery": ">=1.8",
-    "trumbowyg": "https://wernerru@github.com/wernerru/Trumbowyg.git#semver:v2.21.1"
+    "trumbowyg": "https://wernerru@github.com/wernerru/Trumbowyg.git"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
